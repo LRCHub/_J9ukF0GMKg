@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "街（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン）",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-22T09:12:26.366616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "街 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_街_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "街 (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 & 鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_街_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&_鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "街 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_街_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
